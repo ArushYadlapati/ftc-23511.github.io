@@ -1,1 +1,1 @@
-console.log('Hey! Join FTCLib!')
+console.log('Hey! Join SolversLib!')
